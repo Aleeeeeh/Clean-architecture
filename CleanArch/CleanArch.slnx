@@ -1,1 +1,7 @@
-<Solution />
+<Solution>
+  <Project Path="CleanArch.Application/CleanArch.Application.csproj" />
+  <Project Path="CleanArch.Domain/CleanArch.Domain.csproj" />
+  <Project Path="CleanArch.Infra.Data/CleanArch.Infra.Data.csproj" />
+  <Project Path="CleanArch.Infra.IoC/CleanArch.Infra.IoC.csproj" />
+  <Project Path="CleanArch.MVC/CleanArch.MVC.csproj" Id="f11f47a4-2881-45c9-9700-024ab87b67a1" />
+</Solution>
